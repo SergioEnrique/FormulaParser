@@ -1,0 +1,11 @@
+{
+    "name": "valerio/formula-parser",
+    "description": "PHP Formula like Excel parser as tree",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+        	"Valerio\\" : "valerio/"
+        }
+    }
+}
